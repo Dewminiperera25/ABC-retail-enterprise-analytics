@@ -1,0 +1,13 @@
+﻿Store_ID,Store_Name,City,Region,Store_Type,Opening_Date
+STORE001,ABC Colombo Branch,Colombo,Western,Standard,2020-06-06
+STORE002,ABC Negombo Branch,Negombo,Western,Express,2025-01-24
+STORE003,ABC Gampaha Branch,Gampaha,Western,Standard,2024-12-17
+STORE004,ABC Kandy Branch,Kandy,Central,Express,2024-07-02
+STORE005,ABC Matale Branch,Matale,Central,Standard,2022-05-12
+STORE006,ABC Galle Branch,Galle,Southern,Standard,2024-05-05
+STORE007,ABC Matara Branch,Matara,Southern,Express,2020-10-28
+STORE008,ABC Kurunegala Branch,Kurunegala,North Western,Standard,2021-08-19
+STORE009,ABC Jaffna Branch,Jaffna,Northern,Standard,2025-02-28
+STORE010,ABC Anuradhapura Branch,Anuradhapura,North Central,Flagship,2020-07-09
+STORE011,ABC Batticaloa Branch,Batticaloa,Eastern,Express,2025-06-19
+STORE012,ABC Ratnapura Branch,Ratnapura,Sabaragamuwa,Standard,2024-01-29

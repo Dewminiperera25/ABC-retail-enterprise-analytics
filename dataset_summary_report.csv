@@ -1,0 +1,11 @@
+Dataset,Rows,Columns,Duplicate_Rows,Missing_Cells
+customer_interactions,10000,9,0,0
+customers,5000,9,0,0
+date_dimension,1826,11,0,0
+inventory,3600,9,0,0
+marketing_campaigns,100,14,0,0
+order_items,50000,9,0,0
+orders,20000,8,0,2420
+products,300,6,0,0
+returns,1500,6,0,0
+stores,12,6,0,0

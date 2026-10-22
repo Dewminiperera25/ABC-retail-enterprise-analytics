@@ -1,0 +1,301 @@
+﻿Product_ID,Product_Name,Category,Unit_Price,Unit_Cost,Brand
+PROD0001,Clothing Product 001,Clothing,1351.96,916.07,Brand_18
+PROD0002,Electronics Product 002,Electronics,78261.23,40145.36,Brand_28
+PROD0003,Home & Kitchen Product 003,Home & Kitchen,24333.79,17745.25,Brand_17
+PROD0004,Groceries Product 004,Groceries,1279.92,697.41,Brand_12
+PROD0005,Clothing Product 005,Clothing,7708.65,3964.51,Brand_05
+PROD0006,Groceries Product 006,Groceries,3245.25,2717.45,Brand_07
+PROD0007,Sports Product 007,Sports,6775.09,4292.24,Brand_02
+PROD0008,Beauty Product 008,Beauty,1055.36,625.38,Brand_11
+PROD0009,Home & Kitchen Product 009,Home & Kitchen,21939.9,12345.95,Brand_01
+PROD0010,Beauty Product 010,Beauty,4578.96,3284.87,Brand_05
+PROD0011,Groceries Product 011,Groceries,2095.88,1439.84,Brand_23
+PROD0012,Beauty Product 012,Beauty,5648.09,3521.0,Brand_19
+PROD0013,Groceries Product 013,Groceries,1564.7,786.29,Brand_27
+PROD0014,Electronics Product 014,Electronics,16304.83,8406.33,Brand_24
+PROD0015,Beauty Product 015,Beauty,5991.94,3962.14,Brand_18
+PROD0016,Groceries Product 016,Groceries,2737.37,1972.08,Brand_17
+PROD0017,Sports Product 017,Sports,13202.21,7082.03,Brand_30
+PROD0018,Beauty Product 018,Beauty,6660.54,4416.1,Brand_29
+PROD0019,Beauty Product 019,Beauty,6759.12,3920.42,Brand_30
+PROD0020,Clothing Product 020,Clothing,5982.77,3961.93,Brand_24
+PROD0021,Groceries Product 021,Groceries,4510.85,2395.6,Brand_16
+PROD0022,Groceries Product 022,Groceries,3215.84,2564.76,Brand_26
+PROD0023,Home & Kitchen Product 023,Home & Kitchen,18743.18,14242.55,Brand_15
+PROD0024,Groceries Product 024,Groceries,3918.11,2703.51,Brand_17
+PROD0025,Electronics Product 025,Electronics,9896.55,6974.37,Brand_27
+PROD0026,Clothing Product 026,Clothing,6132.67,4266.15,Brand_27
+PROD0027,Electronics Product 027,Electronics,69036.68,48988.07,Brand_13
+PROD0028,Sports Product 028,Sports,11355.92,8348.07,Brand_25
+PROD0029,Home & Kitchen Product 029,Home & Kitchen,23124.22,11885.88,Brand_17
+PROD0030,Electronics Product 030,Electronics,7637.04,5008.25,Brand_05
+PROD0031,Groceries Product 031,Groceries,3511.47,2188.84,Brand_03
+PROD0032,Sports Product 032,Sports,7514.42,4658.05,Brand_20
+PROD0033,Sports Product 033,Sports,13993.51,7371.86,Brand_30
+PROD0034,Electronics Product 034,Electronics,25016.81,14516.44,Brand_10
+PROD0035,Electronics Product 035,Electronics,23160.85,18629.42,Brand_25
+PROD0036,Electronics Product 036,Electronics,5108.54,3185.67,Brand_05
+PROD0037,Sports Product 037,Sports,1519.07,761.26,Brand_16
+PROD0038,Clothing Product 038,Clothing,11054.0,9014.73,Brand_28
+PROD0039,Beauty Product 039,Beauty,4649.28,2864.9,Brand_24
+PROD0040,Electronics Product 040,Electronics,66141.64,35531.5,Brand_19
+PROD0041,Clothing Product 041,Clothing,10010.38,5047.16,Brand_02
+PROD0042,Electronics Product 042,Electronics,15143.15,9109.92,Brand_16
+PROD0043,Sports Product 043,Sports,1980.36,1232.11,Brand_26
+PROD0044,Sports Product 044,Sports,17218.48,12845.94,Brand_08
+PROD0045,Groceries Product 045,Groceries,2683.67,1677.84,Brand_09
+PROD0046,Beauty Product 046,Beauty,2584.45,1757.67,Brand_30
+PROD0047,Electronics Product 047,Electronics,22170.31,12162.97,Brand_24
+PROD0048,Home & Kitchen Product 048,Home & Kitchen,9820.79,5420.41,Brand_10
+PROD0049,Electronics Product 049,Electronics,8281.38,6623.89,Brand_07
+PROD0050,Electronics Product 050,Electronics,66642.68,43544.88,Brand_25
+PROD0051,Beauty Product 051,Beauty,1067.77,751.98,Brand_29
+PROD0052,Beauty Product 052,Beauty,1214.07,992.97,Brand_16
+PROD0053,Home & Kitchen Product 053,Home & Kitchen,14870.63,10344.13,Brand_10
+PROD0054,Groceries Product 054,Groceries,268.74,209.45,Brand_17
+PROD0055,Clothing Product 055,Clothing,1900.01,1034.74,Brand_10
+PROD0056,Electronics Product 056,Electronics,62684.67,53197.73,Brand_25
+PROD0057,Sports Product 057,Sports,17674.05,9226.32,Brand_18
+PROD0058,Home & Kitchen Product 058,Home & Kitchen,4490.21,2358.08,Brand_19
+PROD0059,Groceries Product 059,Groceries,4069.93,2567.43,Brand_06
+PROD0060,Sports Product 060,Sports,9772.74,8253.32,Brand_26
+PROD0061,Beauty Product 061,Beauty,7051.06,5659.43,Brand_08
+PROD0062,Sports Product 062,Sports,1360.98,789.25,Brand_17
+PROD0063,Beauty Product 063,Beauty,1260.56,939.39,Brand_21
+PROD0064,Electronics Product 064,Electronics,68340.44,45393.51,Brand_14
+PROD0065,Sports Product 065,Sports,15849.03,11648.98,Brand_06
+PROD0066,Sports Product 066,Sports,6166.18,4940.97,Brand_04
+PROD0067,Groceries Product 067,Groceries,4010.28,2779.88,Brand_12
+PROD0068,Home & Kitchen Product 068,Home & Kitchen,24024.94,12333.69,Brand_05
+PROD0069,Beauty Product 069,Beauty,3303.12,2160.34,Brand_13
+PROD0070,Beauty Product 070,Beauty,2005.99,1215.53,Brand_29
+PROD0071,Electronics Product 071,Electronics,33554.07,24616.43,Brand_26
+PROD0072,Clothing Product 072,Clothing,7670.69,5772.35,Brand_27
+PROD0073,Electronics Product 073,Electronics,52085.93,34316.68,Brand_11
+PROD0074,Electronics Product 074,Electronics,34115.83,25170.96,Brand_29
+PROD0075,Home & Kitchen Product 075,Home & Kitchen,7595.25,4797.49,Brand_10
+PROD0076,Electronics Product 076,Electronics,24040.91,12438.38,Brand_11
+PROD0077,Groceries Product 077,Groceries,415.08,336.45,Brand_14
+PROD0078,Beauty Product 078,Beauty,989.46,689.7,Brand_19
+PROD0079,Beauty Product 079,Beauty,4184.26,2933.49,Brand_17
+PROD0080,Sports Product 080,Sports,10545.64,6508.35,Brand_06
+PROD0081,Groceries Product 081,Groceries,3665.83,2337.93,Brand_12
+PROD0082,Clothing Product 082,Clothing,6535.84,4658.53,Brand_17
+PROD0083,Sports Product 083,Sports,4600.11,2378.02,Brand_15
+PROD0084,Beauty Product 084,Beauty,5952.25,4899.57,Brand_24
+PROD0085,Home & Kitchen Product 085,Home & Kitchen,23868.21,12705.76,Brand_17
+PROD0086,Home & Kitchen Product 086,Home & Kitchen,24203.73,16360.57,Brand_25
+PROD0087,Beauty Product 087,Beauty,2159.14,1264.56,Brand_02
+PROD0088,Clothing Product 088,Clothing,1479.64,1208.44,Brand_23
+PROD0089,Clothing Product 089,Clothing,8380.24,4387.14,Brand_17
+PROD0090,Electronics Product 090,Electronics,48985.08,39705.03,Brand_22
+PROD0091,Home & Kitchen Product 091,Home & Kitchen,22128.75,17345.55,Brand_10
+PROD0092,Clothing Product 092,Clothing,3221.53,2352.36,Brand_24
+PROD0093,Electronics Product 093,Electronics,26802.49,17328.4,Brand_29
+PROD0094,Beauty Product 094,Beauty,7329.14,3929.96,Brand_30
+PROD0095,Clothing Product 095,Clothing,6913.21,5146.2,Brand_28
+PROD0096,Clothing Product 096,Clothing,11358.07,8841.84,Brand_21
+PROD0097,Clothing Product 097,Clothing,2290.77,1909.11,Brand_22
+PROD0098,Sports Product 098,Sports,5872.32,4007.53,Brand_30
+PROD0099,Beauty Product 099,Beauty,2890.99,2179.36,Brand_07
+PROD0100,Sports Product 100,Sports,3134.41,2170.26,Brand_08
+PROD0101,Beauty Product 101,Beauty,5280.16,3630.02,Brand_03
+PROD0102,Electronics Product 102,Electronics,40398.29,24126.18,Brand_21
+PROD0103,Groceries Product 103,Groceries,523.4,433.7,Brand_08
+PROD0104,Sports Product 104,Sports,10740.57,5779.45,Brand_13
+PROD0105,Electronics Product 105,Electronics,37215.91,28268.98,Brand_28
+PROD0106,Sports Product 106,Sports,11684.61,6981.88,Brand_29
+PROD0107,Clothing Product 107,Clothing,10970.91,8771.72,Brand_10
+PROD0108,Clothing Product 108,Clothing,3619.16,2054.29,Brand_21
+PROD0109,Sports Product 109,Sports,1219.59,837.0,Brand_20
+PROD0110,Groceries Product 110,Groceries,1668.46,846.87,Brand_16
+PROD0111,Beauty Product 111,Beauty,7629.42,4400.22,Brand_22
+PROD0112,Beauty Product 112,Beauty,6159.55,4294.38,Brand_10
+PROD0113,Sports Product 113,Sports,17335.81,11617.3,Brand_27
+PROD0114,Groceries Product 114,Groceries,2732.85,1904.43,Brand_08
+PROD0115,Groceries Product 115,Groceries,4944.89,4068.18,Brand_13
+PROD0116,Home & Kitchen Product 116,Home & Kitchen,13175.8,10123.05,Brand_23
+PROD0117,Electronics Product 117,Electronics,28264.97,14398.56,Brand_23
+PROD0118,Beauty Product 118,Beauty,5013.4,2562.43,Brand_19
+PROD0119,Electronics Product 119,Electronics,72159.18,59728.48,Brand_07
+PROD0120,Groceries Product 120,Groceries,637.96,423.12,Brand_05
+PROD0121,Clothing Product 121,Clothing,7946.99,6725.14,Brand_25
+PROD0122,Electronics Product 122,Electronics,61479.73,30836.25,Brand_19
+PROD0123,Home & Kitchen Product 123,Home & Kitchen,13343.03,8432.23,Brand_18
+PROD0124,Groceries Product 124,Groceries,4171.09,3450.29,Brand_29
+PROD0125,Groceries Product 125,Groceries,4380.78,3376.32,Brand_26
+PROD0126,Beauty Product 126,Beauty,6965.54,4150.35,Brand_28
+PROD0127,Beauty Product 127,Beauty,1597.87,1176.23,Brand_14
+PROD0128,Electronics Product 128,Electronics,50048.35,36339.06,Brand_27
+PROD0129,Groceries Product 129,Groceries,4691.18,2421.07,Brand_10
+PROD0130,Home & Kitchen Product 130,Home & Kitchen,4326.78,3097.78,Brand_08
+PROD0131,Sports Product 131,Sports,17337.62,8688.94,Brand_25
+PROD0132,Groceries Product 132,Groceries,1176.47,979.4,Brand_15
+PROD0133,Groceries Product 133,Groceries,3373.91,2310.13,Brand_24
+PROD0134,Sports Product 134,Sports,1322.42,863.82,Brand_28
+PROD0135,Groceries Product 135,Groceries,1166.16,879.35,Brand_26
+PROD0136,Home & Kitchen Product 136,Home & Kitchen,12099.41,8913.42,Brand_01
+PROD0137,Clothing Product 137,Clothing,1812.31,1513.2,Brand_01
+PROD0138,Groceries Product 138,Groceries,4138.03,3124.55,Brand_17
+PROD0139,Clothing Product 139,Clothing,11522.99,5863.35,Brand_25
+PROD0140,Groceries Product 140,Groceries,1374.45,710.38,Brand_22
+PROD0141,Clothing Product 141,Clothing,2427.04,1363.76,Brand_08
+PROD0142,Home & Kitchen Product 142,Home & Kitchen,12513.99,9426.75,Brand_18
+PROD0143,Beauty Product 143,Beauty,4184.21,3556.08,Brand_13
+PROD0144,Beauty Product 144,Beauty,7767.15,4814.26,Brand_09
+PROD0145,Beauty Product 145,Beauty,4294.22,2333.84,Brand_01
+PROD0146,Sports Product 146,Sports,19043.09,11447.98,Brand_04
+PROD0147,Beauty Product 147,Beauty,2060.81,1423.35,Brand_27
+PROD0148,Electronics Product 148,Electronics,61212.76,46107.77,Brand_26
+PROD0149,Groceries Product 149,Groceries,2677.61,1349.16,Brand_23
+PROD0150,Sports Product 150,Sports,7384.97,5436.85,Brand_05
+PROD0151,Groceries Product 151,Groceries,1966.1,988.05,Brand_16
+PROD0152,Sports Product 152,Sports,2375.09,1277.03,Brand_29
+PROD0153,Beauty Product 153,Beauty,6168.26,3778.32,Brand_10
+PROD0154,Clothing Product 154,Clothing,11402.83,9475.07,Brand_09
+PROD0155,Beauty Product 155,Beauty,2692.56,1654.3,Brand_15
+PROD0156,Groceries Product 156,Groceries,1024.11,759.75,Brand_09
+PROD0157,Clothing Product 157,Clothing,4588.6,2726.9,Brand_05
+PROD0158,Home & Kitchen Product 158,Home & Kitchen,11491.35,9540.93,Brand_19
+PROD0159,Clothing Product 159,Clothing,7987.85,5738.93,Brand_12
+PROD0160,Groceries Product 160,Groceries,4010.95,3100.78,Brand_28
+PROD0161,Clothing Product 161,Clothing,2077.18,1763.67,Brand_10
+PROD0162,Beauty Product 162,Beauty,6011.05,3140.19,Brand_24
+PROD0163,Beauty Product 163,Beauty,1146.3,718.0,Brand_28
+PROD0164,Groceries Product 164,Groceries,4406.47,2639.6,Brand_07
+PROD0165,Electronics Product 165,Electronics,74596.42,54866.85,Brand_14
+PROD0166,Beauty Product 166,Beauty,4988.79,3415.65,Brand_04
+PROD0167,Groceries Product 167,Groceries,1385.91,974.31,Brand_22
+PROD0168,Home & Kitchen Product 168,Home & Kitchen,2279.56,1592.48,Brand_24
+PROD0169,Groceries Product 169,Groceries,4522.33,3787.94,Brand_27
+PROD0170,Clothing Product 170,Clothing,3326.19,1995.71,Brand_18
+PROD0171,Groceries Product 171,Groceries,4457.73,3228.42,Brand_22
+PROD0172,Beauty Product 172,Beauty,2180.42,1740.63,Brand_22
+PROD0173,Groceries Product 173,Groceries,3342.84,2803.92,Brand_13
+PROD0174,Electronics Product 174,Electronics,24325.27,14567.85,Brand_09
+PROD0175,Sports Product 175,Sports,14038.51,9566.58,Brand_26
+PROD0176,Beauty Product 176,Beauty,2207.51,1110.73,Brand_12
+PROD0177,Electronics Product 177,Electronics,67101.36,42807.95,Brand_09
+PROD0178,Clothing Product 178,Clothing,9984.82,5723.09,Brand_28
+PROD0179,Clothing Product 179,Clothing,2880.33,2007.13,Brand_27
+PROD0180,Electronics Product 180,Electronics,14258.22,8354.95,Brand_19
+PROD0181,Groceries Product 181,Groceries,995.25,715.1,Brand_05
+PROD0182,Beauty Product 182,Beauty,6652.95,3643.22,Brand_16
+PROD0183,Home & Kitchen Product 183,Home & Kitchen,23116.26,16221.37,Brand_23
+PROD0184,Home & Kitchen Product 184,Home & Kitchen,5646.25,4673.97,Brand_22
+PROD0185,Clothing Product 185,Clothing,1766.75,1021.52,Brand_09
+PROD0186,Clothing Product 186,Clothing,6213.06,4336.03,Brand_16
+PROD0187,Beauty Product 187,Beauty,854.21,451.21,Brand_26
+PROD0188,Sports Product 188,Sports,1795.11,1366.31,Brand_24
+PROD0189,Beauty Product 189,Beauty,7544.09,5056.36,Brand_30
+PROD0190,Home & Kitchen Product 190,Home & Kitchen,19842.66,14874.14,Brand_05
+PROD0191,Beauty Product 191,Beauty,7513.6,4867.24,Brand_11
+PROD0192,Electronics Product 192,Electronics,33506.97,26585.13,Brand_16
+PROD0193,Groceries Product 193,Groceries,1517.41,1118.72,Brand_06
+PROD0194,Home & Kitchen Product 194,Home & Kitchen,9589.64,7031.77,Brand_14
+PROD0195,Beauty Product 195,Beauty,5559.26,4390.34,Brand_23
+PROD0196,Home & Kitchen Product 196,Home & Kitchen,5621.58,4088.59,Brand_21
+PROD0197,Beauty Product 197,Beauty,2154.26,1428.68,Brand_08
+PROD0198,Groceries Product 198,Groceries,1986.46,1551.21,Brand_16
+PROD0199,Home & Kitchen Product 199,Home & Kitchen,19285.85,15026.25,Brand_02
+PROD0200,Clothing Product 200,Clothing,5203.57,2910.54,Brand_01
+PROD0201,Beauty Product 201,Beauty,4928.69,2560.37,Brand_18
+PROD0202,Electronics Product 202,Electronics,65001.39,52266.52,Brand_23
+PROD0203,Groceries Product 203,Groceries,3519.75,1814.97,Brand_05
+PROD0204,Home & Kitchen Product 204,Home & Kitchen,22208.6,12356.37,Brand_18
+PROD0205,Sports Product 205,Sports,8699.71,5433.97,Brand_03
+PROD0206,Home & Kitchen Product 206,Home & Kitchen,24910.65,14686.0,Brand_27
+PROD0207,Clothing Product 207,Clothing,9337.94,6579.27,Brand_21
+PROD0208,Groceries Product 208,Groceries,1967.39,1433.67,Brand_22
+PROD0209,Groceries Product 209,Groceries,4761.0,3871.0,Brand_16
+PROD0210,Sports Product 210,Sports,2102.58,1563.28,Brand_28
+PROD0211,Clothing Product 211,Clothing,4964.75,3387.13,Brand_28
+PROD0212,Home & Kitchen Product 212,Home & Kitchen,16862.09,8627.74,Brand_02
+PROD0213,Clothing Product 213,Clothing,9824.91,5604.02,Brand_29
+PROD0214,Beauty Product 214,Beauty,6114.92,3573.19,Brand_18
+PROD0215,Groceries Product 215,Groceries,1330.77,1126.33,Brand_06
+PROD0216,Beauty Product 216,Beauty,2645.75,1953.52,Brand_24
+PROD0217,Electronics Product 217,Electronics,7994.47,4152.22,Brand_19
+PROD0218,Home & Kitchen Product 218,Home & Kitchen,16088.9,10309.91,Brand_10
+PROD0219,Clothing Product 219,Clothing,6241.31,4086.47,Brand_17
+PROD0220,Sports Product 220,Sports,6312.65,3636.94,Brand_07
+PROD0221,Beauty Product 221,Beauty,4993.74,3321.01,Brand_24
+PROD0222,Clothing Product 222,Clothing,5117.46,3223.1,Brand_14
+PROD0223,Beauty Product 223,Beauty,2247.48,1767.24,Brand_16
+PROD0224,Home & Kitchen Product 224,Home & Kitchen,24839.64,18996.21,Brand_10
+PROD0225,Beauty Product 225,Beauty,3249.67,1821.21,Brand_29
+PROD0226,Home & Kitchen Product 226,Home & Kitchen,1978.44,1373.82,Brand_22
+PROD0227,Home & Kitchen Product 227,Home & Kitchen,18257.31,15473.76,Brand_13
+PROD0228,Sports Product 228,Sports,10345.3,6934.37,Brand_21
+PROD0229,Electronics Product 229,Electronics,13320.17,9493.15,Brand_30
+PROD0230,Home & Kitchen Product 230,Home & Kitchen,16604.4,11586.94,Brand_17
+PROD0231,Groceries Product 231,Groceries,2674.98,2140.37,Brand_20
+PROD0232,Electronics Product 232,Electronics,36883.77,28825.61,Brand_09
+PROD0233,Beauty Product 233,Beauty,6946.2,4229.57,Brand_29
+PROD0234,Sports Product 234,Sports,9357.85,6891.48,Brand_02
+PROD0235,Beauty Product 235,Beauty,1353.73,968.37,Brand_30
+PROD0236,Electronics Product 236,Electronics,39507.37,25758.77,Brand_17
+PROD0237,Home & Kitchen Product 237,Home & Kitchen,12128.17,6609.98,Brand_12
+PROD0238,Home & Kitchen Product 238,Home & Kitchen,11567.29,6083.26,Brand_25
+PROD0239,Beauty Product 239,Beauty,5355.1,3194.07,Brand_19
+PROD0240,Beauty Product 240,Beauty,5523.32,4018.87,Brand_22
+PROD0241,Groceries Product 241,Groceries,4813.38,2868.61,Brand_17
+PROD0242,Groceries Product 242,Groceries,1614.37,1228.02,Brand_27
+PROD0243,Beauty Product 243,Beauty,5564.91,2885.08,Brand_14
+PROD0244,Clothing Product 244,Clothing,8720.89,4974.57,Brand_08
+PROD0245,Electronics Product 245,Electronics,76861.31,54293.48,Brand_07
+PROD0246,Clothing Product 246,Clothing,9815.86,6712.14,Brand_06
+PROD0247,Electronics Product 247,Electronics,6544.82,3366.47,Brand_30
+PROD0248,Electronics Product 248,Electronics,71986.39,39060.33,Brand_27
+PROD0249,Groceries Product 249,Groceries,1146.21,816.16,Brand_11
+PROD0250,Groceries Product 250,Groceries,598.22,421.07,Brand_10
+PROD0251,Groceries Product 251,Groceries,3433.34,2482.17,Brand_08
+PROD0252,Home & Kitchen Product 252,Home & Kitchen,13707.61,9903.39,Brand_27
+PROD0253,Clothing Product 253,Clothing,1065.98,601.03,Brand_26
+PROD0254,Beauty Product 254,Beauty,2451.68,2014.99,Brand_15
+PROD0255,Clothing Product 255,Clothing,7081.54,4165.5,Brand_07
+PROD0256,Clothing Product 256,Clothing,10886.35,8844.43,Brand_09
+PROD0257,Electronics Product 257,Electronics,53540.48,34737.74,Brand_22
+PROD0258,Home & Kitchen Product 258,Home & Kitchen,15936.74,12319.27,Brand_28
+PROD0259,Groceries Product 259,Groceries,1661.08,1016.18,Brand_06
+PROD0260,Sports Product 260,Sports,6377.26,4180.51,Brand_25
+PROD0261,Sports Product 261,Sports,14970.62,10647.48,Brand_17
+PROD0262,Home & Kitchen Product 262,Home & Kitchen,6448.72,3959.04,Brand_23
+PROD0263,Clothing Product 263,Clothing,11841.1,9295.46,Brand_05
+PROD0264,Electronics Product 264,Electronics,49609.59,31883.36,Brand_07
+PROD0265,Clothing Product 265,Clothing,2306.98,1694.41,Brand_06
+PROD0266,Groceries Product 266,Groceries,185.67,117.77,Brand_27
+PROD0267,Sports Product 267,Sports,8740.28,7158.79,Brand_29
+PROD0268,Electronics Product 268,Electronics,59217.51,40656.35,Brand_28
+PROD0269,Groceries Product 269,Groceries,238.11,131.76,Brand_21
+PROD0270,Beauty Product 270,Beauty,896.16,454.63,Brand_12
+PROD0271,Beauty Product 271,Beauty,7622.91,6232.09,Brand_25
+PROD0272,Home & Kitchen Product 272,Home & Kitchen,23131.81,16301.64,Brand_01
+PROD0273,Electronics Product 273,Electronics,61482.48,36289.0,Brand_11
+PROD0274,Groceries Product 274,Groceries,2444.56,1238.57,Brand_23
+PROD0275,Groceries Product 275,Groceries,3032.04,1812.31,Brand_28
+PROD0276,Beauty Product 276,Beauty,1976.02,1532.24,Brand_05
+PROD0277,Clothing Product 277,Clothing,2077.03,1386.6,Brand_29
+PROD0278,Groceries Product 278,Groceries,818.15,635.84,Brand_01
+PROD0279,Electronics Product 279,Electronics,60552.12,38794.15,Brand_06
+PROD0280,Beauty Product 280,Beauty,3830.12,2483.28,Brand_08
+PROD0281,Home & Kitchen Product 281,Home & Kitchen,24578.92,19282.54,Brand_14
+PROD0282,Beauty Product 282,Beauty,722.3,396.63,Brand_29
+PROD0283,Beauty Product 283,Beauty,3814.19,2764.21,Brand_19
+PROD0284,Beauty Product 284,Beauty,693.4,455.91,Brand_20
+PROD0285,Sports Product 285,Sports,7455.91,5684.66,Brand_03
+PROD0286,Clothing Product 286,Clothing,11685.39,7923.49,Brand_13
+PROD0287,Sports Product 287,Sports,5670.95,3600.6,Brand_01
+PROD0288,Sports Product 288,Sports,14096.22,8585.56,Brand_08
+PROD0289,Sports Product 289,Sports,5844.86,4192.88,Brand_02
+PROD0290,Clothing Product 290,Clothing,11368.68,8494.18,Brand_20
+PROD0291,Electronics Product 291,Electronics,42794.14,28386.87,Brand_02
+PROD0292,Beauty Product 292,Beauty,6750.16,4044.73,Brand_07
+PROD0293,Home & Kitchen Product 293,Home & Kitchen,5718.28,4385.75,Brand_20
+PROD0294,Beauty Product 294,Beauty,2734.48,2183.11,Brand_27
+PROD0295,Groceries Product 295,Groceries,4953.77,2740.33,Brand_29
+PROD0296,Sports Product 296,Sports,14916.56,7486.3,Brand_26
+PROD0297,Home & Kitchen Product 297,Home & Kitchen,16902.07,10066.99,Brand_26
+PROD0298,Clothing Product 298,Clothing,5106.06,4082.14,Brand_25
+PROD0299,Home & Kitchen Product 299,Home & Kitchen,24172.42,16347.02,Brand_06
+PROD0300,Home & Kitchen Product 300,Home & Kitchen,6042.88,4490.36,Brand_23
